@@ -1,6 +1,6 @@
 # Cours Travailler avec R : créer un package
 
-Ce dépôt destiné à la classe GitHub Cours-R contientle code produit en suivant les indications du cours.
+Ce dépôt destiné à la classe GitHub Cours-R contient le code produit en suivant les indications du cours.
 
 La méthode générique `triple` et ses déclinaisons sont dans `R/triple.R`.
 La classe `multiple` est dans `R/multiple.R`
